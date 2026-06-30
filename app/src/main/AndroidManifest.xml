@@ -19,6 +19,7 @@
         <activity
             android:name=".Logs"
             android:exported="false"
+            android:windowSoftInputMode="adjustResize"
             android:theme="@style/Theme.ControllerApp" />
         <activity
             android:name=".Controller"
